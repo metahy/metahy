@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**metahy/metahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~~
+_|      _|              _|                _|    _|            
+_|_|  _|_|    _|_|    _|_|_|_|    _|_|_|  _|    _|  _|    _|  
+_|  _|  _|  _|_|_|_|    _|      _|    _|  _|_|_|_|  _|    _|  
+_|      _|  _|          _|      _|    _|  _|    _|  _|    _|  
+_|      _|    _|_|_|      _|_|    _|_|_|  _|    _|    _|_|_|  
+                                                          _|  
+                                                      _|_|    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on PORTUM
+- 🌱 I’m currently learning algorithms
+- 👯 I’m looking to collaborate on a go project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: hyleontsao@gmail.com
+- 😄 Pronouns: Hyleon
 - ⚡ Fun fact: ...
--->
