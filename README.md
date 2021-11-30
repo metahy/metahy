@@ -10,8 +10,8 @@ _|      _|    _|_|_|      _|_|    _|_|_|  _|    _|    _|_|_|
                                                       _|_|    
 ~~~
 
-- 🔭 I’m currently working on PORTUM
-- 🌱 I’m currently learning algorithms
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Golang/Algorithms
 - 👯 I’m looking to collaborate on a go project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
